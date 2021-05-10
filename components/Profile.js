@@ -12,8 +12,8 @@ function Profile() {
         src="https://scontent-dub4-1.cdninstagram.com/v/t51.2885-19/s320x320/145174428_107399804704194_8269024811647391065_n.jpg?tp=1&_nc_ht=scontent-dub4-1.cdninstagram.com&_nc_ohc=r995jsBNjDEAX_toB0M&tn=S-q4JPK61V-z1sLG&edm=ABfd0MgAAAAA&ccb=7-4&oh=83f647b4c451e93e1d116723e44d5312&oe=60A1506C&_nc_sid=7bff83"
         alt=""
       />
-      <div className="mt-5 sm:ml-5 text-blue-800 dark:text-blue-300">
-        <h1 className="text-5xl">Siddhesh Kankekar</h1>
+      <div className="mt-5 sm:ml-5 text-purple-800 dark:text-purple-300 ">
+        <h1 className="text-5xl iphone:text-purple-500">Siddhesh Kankekar</h1>
       </div>
     </div>
   );
