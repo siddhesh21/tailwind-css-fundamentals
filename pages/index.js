@@ -11,10 +11,15 @@ export default function Home() {
       <Profile />
 
       <div className="flex gap-x-5">
-        <button className="btn">Create</button>
         <button
           className="p-10 rounded-2xl shadow-lg ring-2 ring-gray-200 focus:outline-none 
-        focus:ring-blue-400 hover:ring-gray-500"
+        focus:ring-blue-400 "
+        >
+          Create
+        </button>
+        <button
+          className="p-10 rounded-2xl shadow-lg ring-2 ring-gray-200 focus:outline-none 
+        focus:ring-blue-400 "
         >
           Help
         </button>
